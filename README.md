@@ -1,5 +1,3 @@
-Here’s a **clean, professional, and Markdown-optimized `README.md`** for your **ICP-based CRUD DApp** project, with emojis, syntax highlighting, and clear structure:
-
 ---
 
 ````markdown
@@ -131,7 +129,7 @@ MIT License © 2025 Chakri Reddy
 ## 🌍 Connect
 
 - 🔗 [Internet Computer SDK](https://internetcomputer.org/docs/current/developer-docs/backend/overview)
-- 🧠 Questions? Raise an [issue](https://github.com/Chakri7reddy/CRUD_ICP_DAPP/issues)
+
 
 ---
 
